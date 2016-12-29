@@ -4,15 +4,20 @@
 This is a collection of resouces I have found useful for learning Artifical Intelligence and Deep Learning. 
 
 
+# Courses
+
+[Udacity Artifical Intelligence Engineer](https://www.udacity.com/ai)
+
+[Udacity Self Driving Car Engineer](https://www.udacity.com/drive)
+
+[Fast AI Free Course](http://course.fast.ai/)
+
+[EdX Intro to AI](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x)
+
+
 # Academic Articles
 
 [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
-
-# Frame Works
-
-## Bots
-
-[HUBOT](https://hubot.github.com/)
 
 # Web Articles
 
@@ -27,5 +32,11 @@ This is a collection of resouces I have found useful for learning Artifical Inte
 [aylien](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
 
 # Frameworks & Tools
+
+## Bots
+
+[HUBOT](https://hubot.github.com/)
+
+## Misc
 
 [automatedinsights.com](https://automatedinsights.com/)
