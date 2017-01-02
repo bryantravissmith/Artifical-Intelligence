@@ -21,6 +21,8 @@ This is a collection of resouces I have found useful for learning Artifical Inte
 
 # Web Articles
 
+[http://yerevann.com/a-guide-to-deep-learning/](http://yerevann.com/a-guide-to-deep-learning/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_112)
+
 ## Deep Learning
 
 # Repos
