@@ -2,7 +2,11 @@
 # Resources
 
 This is a collection of resouces I have found useful for learning Artifical Intelligence and Deep Learning. 
+# Text Books
 
+[Artifical Intelligences: A Modern Approach](http://aima.cs.berkeley.edu/)
+
+[Artifical Intelligences: A Modern Approach - Python 3 Package](https://github.com/aimacode/aima-python/)
 
 # Courses
 
