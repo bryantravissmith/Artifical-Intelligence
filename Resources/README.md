@@ -6,7 +6,7 @@ This is a collection of resouces I have found useful for learning Artifical Inte
 
 [Artifical Intelligences: A Modern Approach](http://aima.cs.berkeley.edu/)
 
-[Artifical Intelligences: A Modern Approach - Python 3 Package](https://github.com/aimacode/aima-python/)
+[Artifical Intelligences: A Modern Approach Code](https://github.com/aimacode/)
 
 # Courses
 
